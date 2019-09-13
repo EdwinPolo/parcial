@@ -9,7 +9,7 @@ import { Componente5Component } from './componente5/componente5.component';
 
 
 const routes: Routes = [
-  {
+{
     path  : 'grupo-a',    
     component : GrupoAComponent
 },
